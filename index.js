@@ -14,4 +14,4 @@ app.use(express.static('views'));
 // Routes
 app.use('/', routes);
 
-app.listen(PORT, () => console.log(`Example app listening on port http://localhost:${PORT}`));
+app.listen(PORT, console.log(`🔥Server on 🔥 http://localhost:${PORT}`));
