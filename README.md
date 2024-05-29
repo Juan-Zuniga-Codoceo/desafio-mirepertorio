@@ -62,25 +62,5 @@ Eliminar una canción
 * Método: DELETE
 * Parámetros de la solicitud: id
 
-## Estructura del Proyecto
- 
- mi-repertorio/
-├── node_modules/
-├── views/
-│   ├── index.html
-│   └── styles.css
-├── config/
-│   └── db.js
-├── controllers/
-│   └── Controller.js
-├── routes/
-│   └── router.js
-├── index.js
-├── models/
-│   └── queries.js
-├── .env
-├── package.json
-└── package-lock.json
-
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
