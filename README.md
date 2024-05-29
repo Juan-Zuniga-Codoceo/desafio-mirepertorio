@@ -30,10 +30,12 @@ Crea un archivo .env en el directorio raíz con las siguientes variables:
 
 ### Uso
 Para iniciar la aplicación, ejecuta:
+
     npm start
 
 Para desarrollo, puedes usar:
-npm run dev
+
+    npm run dev
 
 Visita http://localhost:3000 en tu navegador para acceder a la aplicación.
 
